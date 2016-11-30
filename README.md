@@ -35,7 +35,7 @@ Make a GitHub repository for these six files, and just copy and paste your repos
 
 ### Questions
 
-1. Write code that lists all of the years since 0 CE that have been prime and a palindrome.
+1. Write code that lists all of the years since 0 CE that have been both prime and a palindrome.
 2. Produce this ASCII art:
 
         |_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|_/*\_|
